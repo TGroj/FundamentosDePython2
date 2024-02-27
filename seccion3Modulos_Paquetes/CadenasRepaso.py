@@ -14,3 +14,11 @@ print(len(empty))
 
 i_am = 'I\'m'
 print(len(i_am))
+
+# Demostración de la función ord().
+
+char_1 = 'a'
+char_2 = ' '  # space
+#conocer valor ASCII
+print(ord(char_1))
+print(ord(char_2))
